@@ -54,7 +54,7 @@ ASAM connects to the Ethereum network via Alchemy and monitors a specified Ether
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/asam.git
+   git clone https://0xSHSH/asam.git
    cd asam
    ```
 
